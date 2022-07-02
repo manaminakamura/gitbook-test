@@ -4,9 +4,11 @@
 **Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
-## ![](../.gitbook/assets/image.png)
-## ![catdayo](../.gitbook/assets/cat.jpeg)
-
+![](../.gitbook/assets/image.png)
+![catdayo](../.gitbook/assets/cat.jpeg)
+<img src="../.gitbook/assets/cat.jpeg">
+![dog](/.gitbook/assets/cat.jpeg)
+<img src="/.gitbook/assets/dog.jpeg">
 
 
 ## The basics
